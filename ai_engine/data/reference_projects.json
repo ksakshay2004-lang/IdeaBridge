@@ -1,0 +1,492 @@
+[
+ {
+  "slug": "khan-academy",
+  "category": "EdTech",
+  "name": "Khan Academy",
+  "description": "Nonprofit that offers free video lessons, practice exercises and personalised learning dashboards for school subjects.",
+  "url": "https://www.khanacademy.org"
+ },
+ {
+  "slug": "duolingo",
+  "category": "EdTech",
+  "name": "Duolingo",
+  "description": "Mobile and web app that teaches languages through short gamified lessons with streaks and leaderboards.",
+  "url": "https://www.duolingo.com"
+ },
+ {
+  "slug": "coursera",
+  "category": "EdTech",
+  "name": "Coursera",
+  "description": "Online learning platform hosting courses, certificates and degrees from universities and companies.",
+  "url": "https://www.coursera.org"
+ },
+ {
+  "slug": "moodle",
+  "category": "EdTech",
+  "name": "Moodle",
+  "description": "Open-source learning management system used by schools and universities to run courses, quizzes and assignments.",
+  "url": "https://moodle.org"
+ },
+ {
+  "slug": "anki",
+  "category": "EdTech",
+  "name": "Anki",
+  "description": "Flashcard application that uses spaced repetition scheduling to help people memorise material.",
+  "url": "https://apps.ankiweb.net"
+ },
+ {
+  "slug": "kahoot",
+  "category": "EdTech",
+  "name": "Kahoot!",
+  "description": "Game-based learning platform where teachers run live quizzes that students answer on their own devices.",
+  "url": "https://kahoot.com"
+ },
+ {
+  "slug": "quizlet",
+  "category": "EdTech",
+  "name": "Quizlet",
+  "description": "Study platform for creating and sharing flashcard sets, practice tests and learning games.",
+  "url": "https://quizlet.com"
+ },
+ {
+  "slug": "openmrs",
+  "category": "Healthcare",
+  "name": "OpenMRS",
+  "description": "Open-source electronic medical record platform designed for clinics in low-resource settings.",
+  "url": "https://openmrs.org"
+ },
+ {
+  "slug": "ada-health",
+  "category": "Healthcare",
+  "name": "Ada Health",
+  "description": "Symptom assessment app that asks questions about a person's symptoms and suggests possible causes and next steps.",
+  "url": "https://ada.com"
+ },
+ {
+  "slug": "teladoc",
+  "category": "Healthcare",
+  "name": "Teladoc Health",
+  "description": "Virtual care provider offering telehealth video visits with doctors and other clinicians.",
+  "url": "https://www.teladochealth.com"
+ },
+ {
+  "slug": "zocdoc",
+  "category": "Healthcare",
+  "name": "Zocdoc",
+  "description": "Online marketplace for finding in-network doctors and booking appointments.",
+  "url": "https://www.zocdoc.com"
+ },
+ {
+  "slug": "headspace",
+  "category": "Healthcare",
+  "name": "Headspace",
+  "description": "Mindfulness and meditation app with guided sessions for sleep, stress and focus.",
+  "url": "https://www.headspace.com"
+ },
+ {
+  "slug": "myfitnesspal",
+  "category": "Healthcare",
+  "name": "MyFitnessPal",
+  "description": "Nutrition and fitness tracker where people log food intake and exercise to manage weight and health goals.",
+  "url": "https://www.myfitnesspal.com"
+ },
+ {
+  "slug": "stripe",
+  "category": "FinTech",
+  "name": "Stripe",
+  "description": "Payments infrastructure that gives businesses APIs to accept online payments, manage subscriptions and send payouts.",
+  "url": "https://stripe.com"
+ },
+ {
+  "slug": "wise",
+  "category": "FinTech",
+  "name": "Wise",
+  "description": "Money transfer service for sending and holding money internationally at the mid-market exchange rate.",
+  "url": "https://wise.com"
+ },
+ {
+  "slug": "ynab",
+  "category": "FinTech",
+  "name": "YNAB (You Need A Budget)",
+  "description": "Budgeting app built around giving every dollar a job and planning spending ahead of time.",
+  "url": "https://www.ynab.com"
+ },
+ {
+  "slug": "kiva",
+  "category": "FinTech",
+  "name": "Kiva",
+  "description": "Nonprofit crowdfunding platform where individuals lend small amounts to borrowers and entrepreneurs around the world.",
+  "url": "https://www.kiva.org"
+ },
+ {
+  "slug": "plaid",
+  "category": "FinTech",
+  "name": "Plaid",
+  "description": "API service that lets apps securely connect to users' bank accounts to verify and share financial data.",
+  "url": "https://plaid.com"
+ },
+ {
+  "slug": "robinhood",
+  "category": "FinTech",
+  "name": "Robinhood",
+  "description": "Mobile-first brokerage app for buying and selling stocks, options and crypto with no commissions on stock trades.",
+  "url": "https://robinhood.com"
+ },
+ {
+  "slug": "climate-fieldview",
+  "category": "AgriTech",
+  "name": "Climate FieldView",
+  "description": "Digital agriculture platform that collects field data and provides analytics for planting and crop decisions.",
+  "url": "https://climate.com"
+ },
+ {
+  "slug": "plantix",
+  "category": "AgriTech",
+  "name": "Plantix",
+  "description": "Mobile app that diagnoses crop diseases and pests from photographs and suggests treatments for farmers.",
+  "url": "https://plantix.net"
+ },
+ {
+  "slug": "inaturalist",
+  "category": "AgriTech",
+  "name": "iNaturalist",
+  "description": "Community platform and app for photographing and identifying plants and animals, contributing to biodiversity data.",
+  "url": "https://www.inaturalist.org"
+ },
+ {
+  "slug": "fbn",
+  "category": "AgriTech",
+  "name": "Farmers Business Network",
+  "description": "Farmer-to-farmer network and marketplace providing agronomic data, inputs and market tools.",
+  "url": "https://www.fbn.com"
+ },
+ {
+  "slug": "too-good-to-go",
+  "category": "CleanTech",
+  "name": "Too Good To Go",
+  "description": "App that sells surplus food from restaurants and shops at a discount to reduce food waste.",
+  "url": "https://www.toogoodtogo.com"
+ },
+ {
+  "slug": "olio",
+  "category": "CleanTech",
+  "name": "OLIO",
+  "description": "Neighbour-to-neighbour sharing app for giving away surplus food and household items.",
+  "url": "https://olioex.com"
+ },
+ {
+  "slug": "ecosia",
+  "category": "CleanTech",
+  "name": "Ecosia",
+  "description": "Search engine that uses its ad revenue to fund tree planting projects.",
+  "url": "https://www.ecosia.org"
+ },
+ {
+  "slug": "project-drawdown",
+  "category": "CleanTech",
+  "name": "Project Drawdown",
+  "description": "Nonprofit research effort that ranks and models climate solutions and their potential impact.",
+  "url": "https://drawdown.org"
+ },
+ {
+  "slug": "rainforest-connection",
+  "category": "CleanTech",
+  "name": "Rainforest Connection",
+  "description": "Nonprofit that uses recycled phones and acoustic AI to detect illegal logging and wildlife activity in forests.",
+  "url": "https://rfcx.org"
+ },
+ {
+  "slug": "uber",
+  "category": "Logistics",
+  "name": "Uber",
+  "description": "Ride-hailing and delivery platform connecting drivers with riders and couriers with customers.",
+  "url": "https://www.uber.com"
+ },
+ {
+  "slug": "blablacar",
+  "category": "Logistics",
+  "name": "BlaBlaCar",
+  "description": "Carpooling marketplace that connects drivers with spare seats to passengers travelling the same route.",
+  "url": "https://www.blablacar.com"
+ },
+ {
+  "slug": "citymapper",
+  "category": "Logistics",
+  "name": "Citymapper",
+  "description": "Urban transit app that combines real-time public transport, walking, cycling and ride options in a city.",
+  "url": "https://citymapper.com"
+ },
+ {
+  "slug": "flexport",
+  "category": "Logistics",
+  "name": "Flexport",
+  "description": "Freight forwarding and supply-chain platform offering shipment visibility and customs services.",
+  "url": "https://www.flexport.com"
+ },
+ {
+  "slug": "etsy",
+  "category": "E-commerce",
+  "name": "Etsy",
+  "description": "Online marketplace where independent sellers list handmade, vintage and craft goods.",
+  "url": "https://www.etsy.com"
+ },
+ {
+  "slug": "shopify",
+  "category": "E-commerce",
+  "name": "Shopify",
+  "description": "Commerce platform for building and running online stores with payments, inventory and shipping tools.",
+  "url": "https://www.shopify.com"
+ },
+ {
+  "slug": "airbnb",
+  "category": "E-commerce",
+  "name": "Airbnb",
+  "description": "Marketplace where hosts list homes and experiences and guests book short-term stays.",
+  "url": "https://www.airbnb.com"
+ },
+ {
+  "slug": "fiverr",
+  "category": "E-commerce",
+  "name": "Fiverr",
+  "description": "Freelance marketplace where sellers offer packaged services such as design, writing and programming.",
+  "url": "https://www.fiverr.com"
+ },
+ {
+  "slug": "upwork",
+  "category": "E-commerce",
+  "name": "Upwork",
+  "description": "Freelance talent marketplace for hiring independent professionals on projects or contracts.",
+  "url": "https://www.upwork.com"
+ },
+ {
+  "slug": "kickstarter",
+  "category": "Innovation",
+  "name": "Kickstarter",
+  "description": "Crowdfunding platform where creators raise money for projects from backers in exchange for rewards.",
+  "url": "https://www.kickstarter.com"
+ },
+ {
+  "slug": "product-hunt",
+  "category": "Innovation",
+  "name": "Product Hunt",
+  "description": "Community site for discovering and upvoting new software products and startups.",
+  "url": "https://www.producthunt.com"
+ },
+ {
+  "slug": "ideascale",
+  "category": "Innovation",
+  "name": "IdeaScale",
+  "description": "Innovation management software that lets organisations collect, vote on and manage ideas from employees or customers.",
+  "url": "https://ideascale.com"
+ },
+ {
+  "slug": "wazoku",
+  "category": "Innovation",
+  "name": "Wazoku (formerly InnoCentive)",
+  "description": "Open-innovation platform where organisations post challenges for a network of solvers.",
+  "url": "https://www.wazoku.com"
+ },
+ {
+  "slug": "gust",
+  "category": "Innovation",
+  "name": "Gust",
+  "description": "Platform connecting startups with angel investors and accelerators and managing fundraising pipelines.",
+  "url": "https://gust.com"
+ },
+ {
+  "slug": "wellfound",
+  "category": "Innovation",
+  "name": "Wellfound (formerly AngelList Talent)",
+  "description": "Startup recruiting and fundraising network linking founders, candidates and investors.",
+  "url": "https://wellfound.com"
+ },
+ {
+  "slug": "crunchbase",
+  "category": "Innovation",
+  "name": "Crunchbase",
+  "description": "Database of companies, funding rounds and investors used for market and startup research.",
+  "url": "https://www.crunchbase.com"
+ },
+ {
+  "slug": "devpost",
+  "category": "Innovation",
+  "name": "Devpost",
+  "description": "Platform that hosts hackathons and lets participants publish and showcase project submissions.",
+  "url": "https://devpost.com"
+ },
+ {
+  "slug": "github",
+  "category": "Developer Tools",
+  "name": "GitHub",
+  "description": "Code hosting platform for version control, collaboration, issue tracking and open-source projects.",
+  "url": "https://github.com"
+ },
+ {
+  "slug": "github-copilot",
+  "category": "Developer Tools",
+  "name": "GitHub Copilot",
+  "description": "AI coding assistant that suggests code completions and answers questions inside developer editors.",
+  "url": "https://github.com/features/copilot"
+ },
+ {
+  "slug": "kaggle",
+  "category": "AI / Machine Learning",
+  "name": "Kaggle",
+  "description": "Data science community offering datasets, notebooks and machine-learning competitions.",
+  "url": "https://www.kaggle.com"
+ },
+ {
+  "slug": "hugging-face",
+  "category": "AI / Machine Learning",
+  "name": "Hugging Face",
+  "description": "Hub for sharing and running machine-learning models, datasets and demo applications.",
+  "url": "https://huggingface.co"
+ },
+ {
+  "slug": "tensorflow",
+  "category": "AI / Machine Learning",
+  "name": "TensorFlow",
+  "description": "Open-source machine-learning framework for building and deploying neural network models.",
+  "url": "https://www.tensorflow.org"
+ },
+ {
+  "slug": "pytorch",
+  "category": "AI / Machine Learning",
+  "name": "PyTorch",
+  "description": "Open-source deep-learning framework widely used for research and production model training.",
+  "url": "https://pytorch.org"
+ },
+ {
+  "slug": "grammarly",
+  "category": "AI / Machine Learning",
+  "name": "Grammarly",
+  "description": "Writing assistant that checks grammar, clarity and tone and suggests rewrites as you type.",
+  "url": "https://www.grammarly.com"
+ },
+ {
+  "slug": "otter",
+  "category": "AI / Machine Learning",
+  "name": "Otter.ai",
+  "description": "Meeting assistant that records conversations, transcribes them and generates summaries.",
+  "url": "https://otter.ai"
+ },
+ {
+  "slug": "notion",
+  "category": "Productivity",
+  "name": "Notion",
+  "description": "Workspace combining notes, documents, wikis and databases for individuals and teams.",
+  "url": "https://www.notion.so"
+ },
+ {
+  "slug": "trello",
+  "category": "Productivity",
+  "name": "Trello",
+  "description": "Kanban-style project management tool that organises tasks as cards on boards.",
+  "url": "https://trello.com"
+ },
+ {
+  "slug": "slack",
+  "category": "Productivity",
+  "name": "Slack",
+  "description": "Team messaging platform with channels, direct messages and integrations with other work tools.",
+  "url": "https://slack.com"
+ },
+ {
+  "slug": "openstreetmap",
+  "category": "Social Impact",
+  "name": "OpenStreetMap",
+  "description": "Collaborative open map of the world edited by volunteers and used by many apps and humanitarian groups.",
+  "url": "https://www.openstreetmap.org"
+ },
+ {
+  "slug": "ushahidi",
+  "category": "Social Impact",
+  "name": "Ushahidi",
+  "description": "Open-source platform for crowdsourcing reports and mapping crises, elections and community issues.",
+  "url": "https://www.ushahidi.com"
+ },
+ {
+  "slug": "be-my-eyes",
+  "category": "Social Impact",
+  "name": "Be My Eyes",
+  "description": "App connecting blind and low-vision people with sighted volunteers through live video for everyday tasks.",
+  "url": "https://www.bemyeyes.com"
+ },
+ {
+  "slug": "wikipedia",
+  "category": "Social Impact",
+  "name": "Wikipedia",
+  "description": "Free online encyclopedia written and maintained by volunteer editors.",
+  "url": "https://www.wikipedia.org"
+ },
+ {
+  "slug": "nextdoor",
+  "category": "Social Impact",
+  "name": "Nextdoor",
+  "description": "Neighbourhood social network for local recommendations, alerts, and community exchange.",
+  "url": "https://nextdoor.com"
+ },
+ {
+  "slug": "meetup",
+  "category": "Social Impact",
+  "name": "Meetup",
+  "description": "Platform for organising and joining local interest-based groups and in-person events.",
+  "url": "https://www.meetup.com"
+ },
+ {
+  "slug": "home-assistant",
+  "category": "IoT",
+  "name": "Home Assistant",
+  "description": "Open-source home automation platform that integrates smart devices and runs locally.",
+  "url": "https://www.home-assistant.io"
+ },
+ {
+  "slug": "arduino",
+  "category": "IoT",
+  "name": "Arduino",
+  "description": "Open-source electronics platform of microcontroller boards and software for prototyping interactive devices.",
+  "url": "https://www.arduino.cc"
+ },
+ {
+  "slug": "raspberry-pi",
+  "category": "IoT",
+  "name": "Raspberry Pi",
+  "description": "Low-cost single-board computers used for education, prototyping and embedded projects.",
+  "url": "https://www.raspberrypi.com"
+ },
+ {
+  "slug": "strava",
+  "category": "Sports & Wellness",
+  "name": "Strava",
+  "description": "Activity tracking app and social network where athletes log runs and rides and compare segments.",
+  "url": "https://www.strava.com"
+ },
+ {
+  "slug": "arxiv",
+  "category": "Research",
+  "name": "arXiv",
+  "description": "Open-access repository of research preprints in physics, mathematics, computer science and related fields.",
+  "url": "https://arxiv.org"
+ },
+ {
+  "slug": "semantic-scholar",
+  "category": "Research",
+  "name": "Semantic Scholar",
+  "description": "AI-assisted academic search engine for discovering and summarising research papers.",
+  "url": "https://www.semanticscholar.org"
+ },
+ {
+  "slug": "protocols-io",
+  "category": "Research",
+  "name": "protocols.io",
+  "description": "Platform for creating, sharing and versioning reproducible laboratory protocols.",
+  "url": "https://www.protocols.io"
+ },
+ {
+  "slug": "zenodo",
+  "category": "Research",
+  "name": "Zenodo",
+  "description": "General-purpose open repository where researchers deposit datasets, software and publications with DOIs.",
+  "url": "https://zenodo.org"
+ }
+]

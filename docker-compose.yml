@@ -1,0 +1,37 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: ideabridge
+      POSTGRES_PASSWORD: ideabridge
+      POSTGRES_DB: ideabridge
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ideabridge"]
+      interval: 5s
+      retries: 10
+    ports: ["5432:5432"]
+
+  backend:
+    build: { context: ., dockerfile: backend/Dockerfile }
+    env_file: [.env]
+    environment:
+      DATABASE_URL: postgresql+psycopg://ideabridge:ideabridge@db:5432/ideabridge
+      UPLOAD_DIR: /srv/backend/uploads
+      CORS_ORIGINS: http://localhost:3000,http://localhost:5173
+    depends_on:
+      db: { condition: service_healthy }
+    volumes:
+      - uploads:/srv/backend/uploads
+    ports: ["8000:8000"]
+
+  frontend:
+    build: ./frontend
+    depends_on: [backend]
+    ports: ["3000:80"]
+
+volumes:
+  pgdata:
+  uploads:
